@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ff49ce6e42d5a4521f4b33c5687435f9",
-"index.html": "ae063ebed452836d6e74a51123856620",
-"/": "ae063ebed452836d6e74a51123856620",
-"main.dart.js": "98cfd30e4e38d5398da376841eb886f0",
+"index.html": "0af71267ef6e56864026420badff6851",
+"/": "0af71267ef6e56864026420badff6851",
+"main.dart.js": "878e01263ffdcaf22ad642bcc4fdff69",
 "flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -16,7 +16,8 @@ const RESOURCES = {
 "manifest.json": "2b76a45a90493a1bfc353dbeba6d0672",
 "assets/images/MyHair2018LexiDawn.png": "04ac185a082720d4379423894257b43a",
 "assets/images/background.png": "cd760177ae72bdfca5cd8fa362b57d50",
-"assets/AssetManifest.json": "6ef3c9bdfe1928b4765bb3931dc79182",
+"assets/images/phoenixlogo.png": "ad0e88cc84309665ce5a35d0a76e9aaf",
+"assets/AssetManifest.json": "ca672e70db46b9908cc8103cac50e742",
 "assets/NOTICES": "eca954f30058f9b080728cb55b8347a7",
 "assets/FontManifest.json": "71a4a82de411f155107da3f8dac64ebd",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_AMS-Regular.ttf": "657a5353a553777e270827bd1630e467",
